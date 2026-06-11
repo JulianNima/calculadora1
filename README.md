@@ -57,7 +57,7 @@ Aplicacion de calculadora desarrollada en pseudocodigo con PSeInt que ofrece 11 
 3 1
 5 3 1
 7 5 3 1
-9 7 5 3 1
+9 7 5 3 1 
 
 ## Ejemplo - Opcion 11 (Estadisticas)
 
@@ -71,7 +71,7 @@ Numeros por debajo del promedio: 2
 
 ## Autor
 
-Julian Nima
+Julian Nimacache
 Carne: 7690-26-9464
 Universidad Mariano Galvez de Guatemala
 Ingenieria en Sistemas
