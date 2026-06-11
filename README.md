@@ -1,6 +1,6 @@
 # Calculadora en PSeInt
 
-Proyecto final del curso de Programación I - Universidad Mariano Gálvez de Guatemala
+Proyecto final del curso de introduccion a los sistemas de computo
 
 ## Descripcion
 
